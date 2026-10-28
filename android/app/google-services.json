@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160069007773",
+    "project_id": "aishi-7cc50",
+    "storage_bucket": "aishi-7cc50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160069007773:android:4db01b7d2a1d093643d774",
+        "android_client_info": {
+          "package_name": "com.aishi.messengev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRW5kJptYGhY35zzVhnahincEMJj50Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
